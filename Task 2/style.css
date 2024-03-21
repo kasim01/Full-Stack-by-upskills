@@ -1,0 +1,33 @@
+body{
+background-color: rgb(166, 191, 238);
+}
+.head{
+color: rgb(5, 5, 116);
+}
+.head span {
+    color: red;
+} 
+
+#bglime
+ {
+background-color: rgb(226, 137, 137);
+}
+
+#para{
+
+    font-size: large;
+    color: green;
+}
+#para span{
+
+    color: black;
+
+}
+
+ul li:nth-of-type(1) a { background-color: yellow; } 
+ul li:nth-of-type(2) a { background-color: rgb(82, 82, 212); }
+
+ol li:nth-of-type(2){ color: rgb(227, 44, 44); } 
+ol li:nth-of-type(3){ color: blue; }
+ol li:nth-of-type(5){ color: rgb(244, 0, 154); }
+
