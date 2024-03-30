@@ -1,0 +1,100 @@
+*  {
+   overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo img {
+    float: left;
+    height: 50px;  
+    width: auto;
+    padding: 10px 20px;
+    position: absolute;
+    right: 92vw;
+    top: 1vw;
+}
+
+
+.menu ul {
+    list-style-type: none;  
+            margin: 25px;
+            padding: 10px; 
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.menu ul li a {
+    color: rgb(226, 134, 134);
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu ul li a:hover {
+    color: #772828;
+    text-align: center;
+}
+
+.user {
+    width: 64px;
+    border: none;
+    background: linear-gradient(rgb(12, 7, 7), rgb(120, 151, 222));
+    border-radius: 1vw;
+    color: rgb(233, 237, 247);
+    position: absolute;
+    right: 5vw;
+    top: 1vw;
+    float: right;
+    padding: 18px;
+
+}
+
+.heading {
+    
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+h1{
+    font-size: 50px;
+
+}
+
+span{
+    font-size: 50px;
+    color: rgb(21, 21, 134);
+}
+.hero button {
+    position: absolute;
+    top: 33vw;
+    left: 150px;
+    color: rgb(255, 255, 255);
+    width: 14vw;
+    padding: 1vw;
+    background-color: rgb(9, 153, 249);
+    border-radius: 15px;
+    border: none;
+}
+.her1 p {
+   margin-top: 10px;
+    color: rgb(84, 97, 106);
+    width: 25vw;
+}
+.im img{
+    float: right;
+   margin: 7%;
+   padding: 10px;
+
+}
+
+
